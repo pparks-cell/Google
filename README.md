@@ -1,4 +1,4 @@
 # Google
 
 
-miiverse.discourse.group
+https://miiverse.discourse.group
